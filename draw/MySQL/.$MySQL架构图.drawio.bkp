@@ -1,0 +1,84 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="Z_mPQkGnj6AKEhwMWzO3">
+    <mxGraphModel dx="1941" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 0px; text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;lt;mxGraphModel&amp;gt;&amp;lt;root&amp;gt;&amp;lt;mxCell id=&quot;0&quot;/&amp;gt;&amp;lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&amp;gt;&amp;lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;line;strokeWidth=2;direction=south;html=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&amp;gt;&amp;lt;mxGeometry x=&quot;350&quot; y=&quot;320&quot; width=&quot;10&quot; height=&quot;30&quot; as=&quot;geometry&quot;/&amp;gt;&amp;lt;/mxCell&amp;gt;&amp;lt;/root&amp;gt;&amp;lt;/mxGraphModel&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-2" value="连接/线程处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-5" value="客户端请求进行连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="190" y="289.5" as="sourcePoint" />
+            <mxPoint x="290" y="289.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-9" value="对于上层的服务，大多数基于网络的客户端和&lt;div&gt;服务器的工具都是存在连接、认证、安全操作的&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="270" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-10" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-11" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-12" value="查询&lt;div&gt;缓存&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-13" value="解析器" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-14" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-15" value="优化器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-19" value="存储引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="628" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="220" y="374.5" as="sourcePoint" />
+            <mxPoint x="320" y="374.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-21" value="MySQL核心服务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-22" value="查询解析、分析优化、缓存、内置函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="420" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="335" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-24" value="跨存储引擎的功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="355" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL7Ncv73jgFQ4WJzz_H5-25" value="负责MySQL中数据的存储和提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="658" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
